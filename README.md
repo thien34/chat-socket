@@ -10,6 +10,3 @@ and rename to `/src` (replace all)
 git clone https://github.com/lucthienphong1120/Chat-Socket
 move Chat-Socket src
 ```
-
-## Note
-> Remember to `git pull` to synchronized before do anything
